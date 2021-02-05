@@ -1,0 +1,26 @@
+html,body{
+	margin: 0;
+}
+
+li {
+    list-style: none;
+}
+
+a{
+	text-decoration: none;
+}
+
+/* 预览图片区样式 */
+.my-preview{
+	overflow: hidden;
+}
+.my-gallery img{
+	height: 100px;
+	float: left;
+	display: inline-block;
+	margin-right: 2px;
+}
+.my-gallery figure{
+	margin: 0;
+
+}
